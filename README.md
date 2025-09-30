@@ -1,4 +1,4 @@
-# FootLily - Tienda de Calzado React
+# 🛒 FootLily - Tienda de Calzado React
 
 > Aplicación web desarrollada con React para tienda de calzado con carrito de compras.
 
